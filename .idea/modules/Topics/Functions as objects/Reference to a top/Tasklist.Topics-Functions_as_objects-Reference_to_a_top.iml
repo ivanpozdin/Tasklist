@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Functions_as_objects-Reference_to_a_top" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Functions as objects/Reference to a top" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Tasklist" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Functions as objects/Reference to a top">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Functions as objects/Reference to a top/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Functions as objects/Reference to a top/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../Topics/Functions as objects/Reference to a top/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
